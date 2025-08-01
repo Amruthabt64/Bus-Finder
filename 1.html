@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>search</title>
+    <style>
+      body{
+        margin: 20px auto;
+        max-width: 700px;
+        text-align: center;
+        background-color: azure;
+        font-family: sans-serif;
+      }
+      h2{
+        margin-top: 150px;
+      }
+      #searchInput{
+        padding: 10px;
+        width: 178px;
+      }
+      button{
+        padding: 10px;
+      }
+      div.platform{
+        margin-top: 50px;
+      }
+    </style>
+</head>
+<body> 
+  <h2>BMTC Majestic Bus Platform Finder</h2>
+  <input type="text" id="searchInput" placeholder="Enter Route No or Destination">
+  <button onclick="searchPlatform()">Search</button>
+  <div id="results"></div>
+  <script src="/script.js"></script>
+</body>
+</html>
+
