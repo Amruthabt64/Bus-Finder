@@ -33,7 +33,8 @@ Bus platform data was obtained from [OpenCity](https://opencity.in/) in KML form
 ---
 
 ## 📸 Screenshot
+<img width="1916" height="832" alt="image" src="https://github.com/user-attachments/assets/b9a1a02c-2cb6-43ea-8f59-732c463ca632" />
+<img width="1916" height="664" alt="image" src="https://github.com/user-attachments/assets/0a587966-e4ab-4f12-ab5e-db3b1bbc0471" />
 
-<img width="1184" height="628" alt="image" src="https://github.com/user-attachments/assets/37295db6-edb8-4f46-aa9a-22e048302f78" />
-<img width="973" height="682" alt="image" src="https://github.com/user-attachments/assets/23bd8e83-e45b-4962-8e48-1632d9d9e6b1" />
+
 
